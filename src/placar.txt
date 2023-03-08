@@ -1,0 +1,5 @@
+belle,23
+sss,18
+belle,15
+belle,12
+s,12
